@@ -1,0 +1,55 @@
+1 linux root directory 04oct
+2 vi editor 05 
+3 chown chgrp 06
+4 installing apps how to add user 07
+5 find rgrep awk .....08
+6 std error stdout mount 11oct
+7 port 12 
+8to 16 shellscripting 13oct to 22
+17 aws ec2 25
+18 aws storage 26
+19 s3 storsge 27 [efs 9/11]
+20 s3 from cli 28
+21 s3 properties storsgeclass 29
+22 iam 01 nov
+23 network vpc 02 nov
+24 vpc ip 03
+25 vpc pering 06 
+26 vpc vpn 07
+27 efs docker 09
+28 docker 08
+29 to 31 docker10 11 12
+32 docker volume 15
+33 docker network 16
+34 to 36 dockerfile 17 18 19 
+37 kubernetis kops kubeadm 22 23 nov
+38 39 kops 25
+40 kops 26
+41 less 29
+42 yamlfiles 30 nov 
+43 setup kops kubeadm 01 dec
+44 yaml files namespsce 02
+45 k8s architech 03
+46 nfs pv pvc  06 dec
+47 pv pvc yaml 07
+48 project 08 dec 9 10 11 12
+49 ENV ecr 13/8
+50 CONFIGMAP 14/12
+51 CONFIGMAP	 15/12
+51 ANSIBLE INTRO	 16/12		
+52 ansible adhoc 17/12
+52 ansib shortcuts 20/12
+53 ansib short 20/12
+54 exception handling 21/12
+55 no
+56 vinil 22/12 w 
+57 template 23/12
+58 roles 27/12
+59 rolesn diff playbook 28/12 w
+60 tasks 30/12 w
+61 tasks 31/12 w
+62  GIT INTRO 4/1/22
+63 GIT TASKS  5/1/22
+64 6/1/22 BRANCHES 
+65 MERGE RBASE PULL FETCH 7/1/22 NOT IN DRIVE NOW
+
