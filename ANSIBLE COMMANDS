@@ -1,0 +1,32 @@
+Create file  :	ansible –m  file –a “name=/tmp/file1 state=touch” all or dev or test environment
+Createuser :	 ansible –m user –a “name=swamy state=present”dev
+Install anyapp:  	ansible –m yum –a “name=httpd state=installed” dev
+Start any app :  ansible–m service –a “name=httpd sstate=started”dev
+Stop any app:   ansible –m service –a “name=httpd state=stopped”dev 
+Manpage: 	  	ansible-doc-l
+  see howmanymodules     ansible-doc-l |wc
+-----------------------------------------------------------------------------------------------
+playbooks[- - nospace]
+play	:	ansible-playbook playbookname.yaml
+syntax:	ansible-playbook playbookname.yaml - -syntax-check
+dryrun :	ansible-playbook playbookname.yaml - -check
+nooftasks:  ansible-playbook playbookname.yaml - -lists-tasks
+interactivly: ansible-playbook playbookname.yaml - - step 
+[every step it asks yes or no or continue]
+Start from particular task
+ ansible-playbook playbookname.yaml - - start-at-task=”partticula taskname”
+start from a particular tag
+ansible-playbook playbookname.yaml - -tags tagname:urwish
+skip a particular tag
+ansible-playbook playbookname.yaml - -skip-tags tagname:urwish
+start from a multiple tag
+ansible-playbook playbookname.yaml - -tags tagname1,tagname2
+
+
+   	
+
+
+
+
+
+
