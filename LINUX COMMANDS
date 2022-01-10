@@ -1,0 +1,72 @@
+Sudo  -i 			rootuser				
+Cd :				 change directory
+Pwd:			present working directory
+Mkdir	:		make a directory
+Touch --			creta a file with zerodata
+Man    :			to know command
+mv  : 			move
+cp	: 			copy
+catfile	:		display content ina file
+df :				 disk space
+du :				disk usage
+chmod 			:changemode
+lsram 			ram
+ls cpu :			cpu
+howmnay cpus
+df-h :			mount points
+echo 	:		print
+ls –l 				toshow files
+rpm-qa 			all the installed apps
+free-m 			memory in mb
+awk 				extract the keyword
+dd 				delete thr line
+contriol d			 save
+u-name			 kernelversion
+grep  			 for a particular line
+grep –I   			 case sensitive
+^ carrrot    		giving first line
+top-     			 currentram
+df-h				 filesys
+find –			find that file
+head—			first n numberof lim=nes
+less –			last n number of lines
+sort –			sorting files
+uniq—			remive adjacent duplicates
+wc—			count no/of lines chara
+ps –ef			 –task manager
+chgrp
+read4 
+write2
+exce1
+vi editor
+rm –				removefolder
+rm-d –			remove directoery
+rm-rf –			removefile
+lsblk—			diskusages
+yuminstall—		installa anyapp
+systemctl status 	checking app status
+systemctl start        start the app
+systemctl enable	enable the app
+sed –				we can search n replace for file
+formatting—			mkfs.ext4/dev/xvdf
+uname –a--- 			kernelversion
+cat/etc/passwd--		-allusers ina file
+cd /etc/yum.repos.d—		repolist do ls
+ls –lt –					timeorder
+ls-ls—					sizeorder
+cat /etc/os-release---		-os
+yy—						copytheline
+5gg –					5th line
+p-						paste
+dd-						delete particularline
+ifconfig eth0—			networkdetails
+sort –r 					–descendingorder
+sed –I 
+mount permanent 			/etc fs-tab file modify
+ifconfig –a				 privateid
+find examples				find / -name filename
+						find / -name “.txt”
+						find / -user ec2-user
+						find / -type f onlyfiles
+						find / -type d only directry
+
