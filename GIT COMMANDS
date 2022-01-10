@@ -1,0 +1,34 @@
+Git clone url		--		cloning with url
+Git add .			--		after changings git add
+Git commit –m “comit msg”	commit msg
+Git push			--		pushing to central repo
+Username			--		swamyborra
+Password			--		your token creating in github
+Ls –la			--		hidden files 
+Git log			--		how many times u committed
+Git status			--		current where u r
+Git branch –a		--		which branch u are
+Git show commitid	--		what u do in particular com
+Git reset HEAD		--		get back statging area
+Git log –oneline		--		log data only one line
+1Git branch branch name	--	create branch
+2Git push origin b.name--		pushing repo to github
+3Git  branch –d b.name:  delete a branch in local
+4Git branch origin –delete b.name:  delete a branch in centrals
+5Git checkout b.name	--		go to particular branch
+7Git branch –m <old> <new>:	rename branch
+
+
+
+8Git branch –D name	--		delete non merge branch
+9Git checkout –b b.name--		shortcut for creating branch
+Git branch			--		list all branches
+Git status					it will help
+Git pull				--	update with local repo with remote
+Git fetch				--	get info any changes in central{wont update}
+Git merge 				--	it updates 
+Git pull=git fetch+git merge
+
+
+
+
