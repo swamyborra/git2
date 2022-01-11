@@ -1,0 +1,47 @@
+[33mcommit f1066201e803f9afa893d0ec97f4cb47300f85ad[m[33m ([m[1;36mHEAD -> [m[1;32mfeature1[m[33m)[m
+Author: swamyborra <swamyborra1260@gmail.com>
+Date:   Tue Jan 11 06:05:22 2022 +0000
+
+    c1rebase
+
+[33mcommit af65902453c7c78780c2c381a140f27c52d83390[m[33m ([m[1;31morigin/feature1[m[33m)[m
+Author: swamyborra <swamyborra1260@gmail.com>
+Date:   Tue Jan 11 05:41:36 2022 +0000
+
+    editing linuxcommands1
+
+[33mcommit 6591a7b394e798eb94d7b0688bca797154483e9a[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: swamy <97143526+swamyborra@users.noreply.github.com>
+Date:   Mon Jan 10 21:52:33 2022 +0530
+
+    Create GIT COMMANDS
+
+[33mcommit 94779fc962c6af6cec8368144fe379aad5cd37f9[m
+Author: swamy <97143526+swamyborra@users.noreply.github.com>
+Date:   Mon Jan 10 21:51:33 2022 +0530
+
+    Create ANSIBLE COMMANDS
+
+[33mcommit 587aebbb2801e3a1f7838acda4a1c2a0ed7be8fa[m
+Author: swamy <97143526+swamyborra@users.noreply.github.com>
+Date:   Mon Jan 10 21:50:45 2022 +0530
+
+    Create DOCKER COMMANDS N K8S
+
+[33mcommit cd51ccbf2b0f4f0fabd1f633020fe90c711bfcba[m
+Author: swamy <97143526+swamyborra@users.noreply.github.com>
+Date:   Mon Jan 10 21:48:46 2022 +0530
+
+    Create LINUX COMMANDS
+
+[33mcommit e26818d1a04ab890dadd987a3d44aac1553381c1[m
+Author: swamy <97143526+swamyborra@users.noreply.github.com>
+Date:   Mon Jan 10 21:47:17 2022 +0530
+
+    Create DAILY CLASS DETAILS
+
+[33mcommit a2b169afd2bc666daddc4063e7e6705b392487c2[m
+Author: swamy <97143526+swamyborra@users.noreply.github.com>
+Date:   Mon Jan 10 10:47:00 2022 +0530
+
+    Initial commit
