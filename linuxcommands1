@@ -1,12 +1,10 @@
 this is new feature to feature1 branch edit
 
 
-Create file  :	ansible –m  file –a “name=/tmp/file1 state=touch” all or dev or test environment
 Createuser :	 ansible –m user –a “name=swamy state=present”dev
 Install anyapp:  	ansible –m yum –a “name=httpd state=installed” dev
 Start any app :  ansible–m service –a “name=httpd sstate=started”dev
 Stop any app:   ansible –m service –a “name=httpd state=stopped”dev 
-Manpage: 	  	ansible-doc-l
   see howmanymodules     ansible-doc-l |wc
 -----------------------------------------------------------------------------------------------
 playbooks[- - nospace]
